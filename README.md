@@ -3,7 +3,8 @@ Envision a system which ensures flawless patient encounter at the outpatient dep
 
 <br>
 <br>
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(28).png"  width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(33).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(84).png"  width = "450" > 
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(33).png" width = "450" >
 
 <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(35).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(29).png" width = "450" >
 
