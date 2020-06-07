@@ -3,13 +3,9 @@ Envision a system which ensures flawless patient encounter at the outpatient dep
 
 <br>
 <br>
-<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(84).png"  width = "450" > 
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(33).png" width = "450" >
-
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(35).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(29).png" width = "450" >
-
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(30).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(26).png" width = "450" >
-
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(22).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(24).png" width = "450" >
-
-<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(25).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(27).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(84).png"  width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(74).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(88).png" width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(89).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(90).png" width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(92).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(94).png" width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(95).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(96).png" width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(97).png" width = "450" >
+<img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(98).png" width = "450" > <img src = "https://github.com/vManav123/Fortis-Hospitality-Management-Services/blob/master/Images%20of%20Fortis%20Project/Screenshot%20(97).png" width = "450" >
